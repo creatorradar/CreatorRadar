@@ -1,16 +1,22 @@
-## Hi there 👋
+# CreatorRadar
 
-<!--
-**creatorradar/CreatorRadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sistema automatizado para analizar perfiles de creadores de contenido en redes sociales, detectar oportunidades y facilitar servicios personalizados.
 
-Here are some ideas to get you started:
+## Objetivos
+- Extraer y analizar datos públicos de TikTok, Instagram y otras redes.
+- Aplicar filtros para identificar perfiles con potencial y carencias.
+- Generar informes y recomendaciones para servicios como subtitulado, branding y más.
+- Facilitar la conexión entre creadores y empresas interesadas en datos de mercado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estado
+Proyecto en fase inicial - MVP para TikTok en desarrollo.
+
+## Tecnologías
+- Python
+- APIs oficiales y scraping (según disponibilidad y legalidad)
+- Almacenamiento en base de datos o ficheros JSON/CSV
+
+## Próximos pasos
+- Investigación legal sobre APIs
+- Desarrollo del extractor básico para TikTok
+- Diseño de filtros y análisis de datos
